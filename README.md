@@ -1,7 +1,7 @@
 # juzicloud桔子云官网地址
 
-最新地址：[juzi610.com]([https://juzi82.xyz/auth/register?code=mBcV](https://juzi82.xyz/auth/register?code=mBcV))
-https://juzi82.xyz/auth/register?code=mBcV
+最新地址：[juzi610.com](https://juzi610.com/auth/register?code=mBcV)
+
 ## 简介
 
 桔子云(JuziCloud)，又称桔子云加速器，是一家专业的SSR/V2Ray机场，速鹰旗下老站，拥有近50个付费节点，全部使用CN2/BGP隧道中转和IPLC国际专线，套餐灵活，性价比高，适合各类人群使用。
